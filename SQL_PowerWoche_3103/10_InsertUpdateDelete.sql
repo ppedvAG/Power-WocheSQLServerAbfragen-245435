@@ -1,3 +1,4 @@
+
 USE Northwind
 
 -- CREATE / ALTER / DROP -- DDL (Data Definition Language)

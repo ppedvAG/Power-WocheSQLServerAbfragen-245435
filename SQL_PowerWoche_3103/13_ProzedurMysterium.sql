@@ -42,7 +42,7 @@ GO
 -- Versuch Nr.3
 -- Prozedur: spNeuerKunde_Test3
 -- Variablen: @CustomerID = char(5), @CompanyName = varchar(40)
---			  @Country = varchar(20), @City = varchar(30)
+--			  @Country = varchar(10), @City = varchar(30)
 -- OHNE DEFAULT WERTE => Bei der Ausgabe Wert überstreiten
 CREATE PROCEDURE spNeuerKunde_Test3
 @CustomerID char(5), @CompanyName varchar(40),
